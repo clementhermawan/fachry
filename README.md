@@ -8,12 +8,14 @@ saya dari [kelompok 4](https://youtube.com)
 |mie   | L    |
 |ikan  | N    |
 
-sh
+```sh
 im from belanda
 
 #klik link disamping [alt text](https://github.com/clementhermawan/array-in-c-/blob/465d9177acd6212da2ae0f169a5695136165b29e/Pictures/png1.PNG?raw=true)
 
-sh
+```
+
+
 -fachry
 -clement
 -adrian
