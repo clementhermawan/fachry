@@ -1,9 +1,9 @@
-# kelompok 4
+# fachry
 
-kami dari [*kelompok 4*](https://youtube.com)
+saya dari [kelompok 4](https://youtube.com)
 
-| fachry | adrian |
-|--------|--------|
-|adrian  | codingan |
-|fachry  | readme.md |
-
+|Produk|L OR N|
+|------|------|
+|bakso | L    |
+|mie   | L    |
+|ikan  | N    |
