@@ -13,3 +13,8 @@ saya dari [kelompok 4](https://youtube.com)
 aku suka kamu 
 
 ```
+
+>ini itu untuk judul
+![alt text](https://github.com/clementhermawan/array-in-c-/blob/465d9177acd6212da2ae0f169a5695136165b29e/Pictures/png1.PNG?raw=true)
+
+
