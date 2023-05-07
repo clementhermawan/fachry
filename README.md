@@ -3,5 +3,5 @@
 kami dari [*kelompok 4*](https://youtube.com)
 
 | fachry | adrian | clay | kristian |
-|-----------------------------------|
+|--------|--------|------|----------|
 
