@@ -2,5 +2,5 @@
 
 kami dari [*kelompok 4*](https://youtube.com)
 
-|saya fachry |
-|------------|
+| fachry | adrian | clay | kristian |
+
