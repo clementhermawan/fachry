@@ -10,6 +10,6 @@ saya dari [kelompok 4](https://youtube.com)
 
 ```sh
 
-aku suka kamu
+aku suka kamu 
 
 ```
