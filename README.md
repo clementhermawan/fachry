@@ -1,3 +1,3 @@
-# fachry
+# kelompok 4
 
-project ini di buat oleh [*Fachry*](www.youtube.com)
+kami dari [*kelompok 4*](https://youtube.com)
