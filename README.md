@@ -1,3 +1,3 @@
 # fachry
 
-aku suka kamu
+project ini di buat oleh [*Fachry*](www.youtube.com)
