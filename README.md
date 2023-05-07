@@ -7,3 +7,9 @@ saya dari [kelompok 4](https://youtube.com)
 |bakso | L    |
 |mie   | L    |
 |ikan  | N    |
+
+```sh
+
+aku suka kamu
+
+```
